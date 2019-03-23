@@ -15,3 +15,12 @@ make
 # Run the code
 
 ./DepthHuman filename.txt
+
+# Next step
+    (1) human detection based on machine learning or deep learning approach can be applied;
+    (2) depth quality from depth sensor is very important;
+    (3) deep learning approaches for obstacle can be explored. 
+    
+    
+
+    
