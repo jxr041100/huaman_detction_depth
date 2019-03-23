@@ -1,8 +1,7 @@
 # huaman_detction_depth
 
-the code is used to detect the clearence for robot using the depth image. 
-
-Compile the code.
+      the code is used to detect the clearence for robot using the depth image. 
+# Compile the code
 
 mkdir build
 
@@ -13,6 +12,6 @@ cmake ..
 make
 
 
-Run the code
+# Run the code
 
 ./DepthHuman filename.txt
